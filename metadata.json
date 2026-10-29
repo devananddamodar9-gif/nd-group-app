@@ -1,0 +1,6 @@
+{
+  "name": "ND Group",
+  "description": "ND Group Grocery & Vegetable shopping app with dynamic weight pricing, wallet points withdrawal, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
